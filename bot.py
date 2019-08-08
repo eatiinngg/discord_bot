@@ -22,6 +22,11 @@ async def on_member_remove(member):
     await channel.send(f'{member}離線囉~~')
 
 @bot.command()
+async def 圖片(ctx):
+    pic=discord.File('G:\\Github\\discord_bot\\image\\1.jpg')
+    await ctx.send(File=pic)
+
+@bot.command()
 async def ping(ctx):
     await ctx.send(f'{round(bot.latency*1000)}(ms)')
 

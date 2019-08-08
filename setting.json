@@ -1,5 +1,9 @@
 {
-    "TOKEN":"NjA2Nzc5MDc0NTM4NTA0MTk0.XUvXFA.uUEEGkDLDvJpjVvsIQTPiDNSb54",
+    "TOKEN":"NjA2Nzc5MDc0NTM4NTA0MTk0.XUxFDA.NCy62jhL26b02w_kq225DvxKa4Y",
     "Welcome_channel":"606867059837501470",
-    "Leave_channel":"606867165123182595"
+    "Leave_channel":"606867165123182595",
+    "pic":["G:\\Github\\discord_bot\\image\\1.jpg","G:\\Github\\discord_bot\\image\\cat.gif"],
+    "url_pic":["https://i.pximg.net/img-original/img/2019/08/06/00/00/05/76098628_p0.png",
+        "https://i.pximg.net/img-original/img/2019/08/06/00/08/34/76098998_p0.png"],
+    "gf":"G:\\Github\\discord_bot\\image\\cat.gif"
 }
